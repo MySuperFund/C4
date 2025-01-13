@@ -1,13 +1,48 @@
-*.tar
-*.tar.*
-*.jar
-*.exe
-*.msi
-*.zip
-*.tgz
-*.log
-*.log.*
-*.sig
+*XML
+*Deamon
+*Uint 1
+*NPU
+*GNU
+*Mach
+*Bin
+*Exe
+*Doc
+*Parser
+*Jpeg
+*PDF
+*Onion
+*Git
+*Alt
+*C+
+*Angular - Back-end solutions
+*Ruby
+*GoETH
+*Json
+*Micro Kernel
+*Monolithic Kernel
+*C-Panel
+*Dame
+*DNSSEC
+*IETF
+*ICANN
+*Internet Society
+*Arin
+*Apnic
+*CloudFlare
+*DigitalOcean
+*Ozenum
+*Lib
+*Unix
+*CMD
+*Log
+*Lan
+*Wan
+*NFT
+*traceroute
+*WhoIs
 
-pkg/
-src/
+
+
+
+
+
